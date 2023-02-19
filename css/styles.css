@@ -1,0 +1,171 @@
+#title {
+    background-color: rgb(244, 29, 93);
+}
+
+.container-fluid {
+    padding: 3% 10% !important;
+}
+
+.img1 {
+    width: 60%;
+    transform: rotate(25deg);
+    position: relative;
+    left: 70px;
+}
+
+.col-lg-6 h1 {
+    font-family: Kanit;
+    color: white;
+    font-size: 4rem;
+}
+
+.navbar {
+    padding-bottom: 4.5rem !important;
+}
+
+body {
+    font-family: 'Montserrat' !important;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu' !important;
+    font-size: 2.5rem !important;
+    font-weight: bold !important;
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.custombtn {
+    margin-top: 40px !important;
+}
+
+.chkcir {
+    color: #ef8172;
+    font-size: 3rem;
+    margin-bottom: 10px;
+    padding: 5%;
+}
+
+.chkcir:hover {
+    color: #ff4c68;
+}
+
+#features {
+    text-align: center;
+    background-color: white;
+    position: relative;
+    bottom: 190px;
+    z-index: 1;
+    /* position: absolute;
+    z-index: +1;
+    top: 613px; */
+}
+
+.col-lg-4 h3 {
+    font-family: 'Kanit';
+    font-size: 1.5rem;
+}
+
+.col-lg-4 p {
+    color: #8f8f8f;
+}
+
+#features {
+    padding: 12% 15% 1%;
+}
+
+/* testimonial section */
+#testimonials {
+    /* padding: 6% 15%; */
+    color: white;
+    text-align: center;
+    background-color: #ef8172;
+    /* position: absolute;
+    top: 980px;
+    z-index: 2; */
+}
+
+#testimonials h2 {
+    font-family: 'Kanit';
+    font-size: 3rem;
+    margin-bottom: 40px;
+}
+
+.dodoimg {
+    width: 12%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 20px;
+}
+
+#press img {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.testimonial-image {
+    width: 12%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-inner {
+    padding: 6% 15%;
+}
+
+/* Pricing */
+#pricing {
+    text-align: center;
+    padding: 7% 15% 9%; 
+    width: auto;
+}
+
+.pricingdiv {
+    margin-top: 60px;
+
+}
+
+#pricing h2 {
+    padding-top: 3%;
+    font-family: 'Kanit';
+    font-size: 3rem;
+    color: black;
+}
+
+.cutombtn2:hover {
+    color: black;
+}
+
+/* cta and footer */
+#cta {
+    padding-top: 4%;
+    padding-bottom: 7%;
+    background-color: #ff4c68;
+    text-align: center;
+
+}
+
+#cta h3 {
+    font-family: 'Kanit';
+    font-size: 3.5rem;
+    color: white;
+    padding: 2% 5% 3.5%;
+}
+
+#footer {
+    background-color: white;
+    text-align: center;
+    padding-bottom: 6%;
+}
+.icons{
+    margin: 5% 1% 2%;
+}
